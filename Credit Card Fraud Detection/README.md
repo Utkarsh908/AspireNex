@@ -27,7 +27,7 @@ The dataset contains transactions made by credit cards in September 2013 by Euro
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/credit-card-fraud-detection.git
+   git clone https://github.com/Utkarsh908/AspireNex/tree/aa017cf28c4f975266b06b499c3c54e33c2d4be3/Credit%20Card%20Fraud%20Detection
    cd credit-card-fraud-detection
 2. Create a virtual environment and activate it:
   ```sh
