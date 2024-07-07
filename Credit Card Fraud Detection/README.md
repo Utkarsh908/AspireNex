@@ -20,12 +20,7 @@ The dataset contains transactions made by credit cards in September 2013 by Euro
 ### Prerequisites
 
 - Python 3.x
-### Required Python libraries
-- pandas
-- numpy
-- matplotlib
-- scikit-learn
-- imbalanced-learn
+- Required Python libraries (listed in `requirements.txt`)
 
 
 ### Installation
